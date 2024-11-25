@@ -1,7 +1,10 @@
 ## Comunity
 Don't hesitate to add proposals in C or other languages to further explore colorization techniques in terminal applications. Contributions are welcome!
 
+
 # Terminal Colorization in C
+
+![linked lists img](img/terminal.png)
 
 This project demonstrates how to add colors and styles to terminal outputs in C using ANSI escape codes. The code provides a variety of color and style options, enabling more readable and visually appealing command-line interactions.
 
